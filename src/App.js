@@ -18,6 +18,7 @@ function App() {
     <div className="App">
       <h1>Thing Lister</h1>
       <h2>A completely useless react app</h2>
+      <h3>Why did i do this? I guess I'll never know...</h3>
       <div>
         <input type="text" onChange={changeText} />
         <button onClick={addItem}>Submit</button>
